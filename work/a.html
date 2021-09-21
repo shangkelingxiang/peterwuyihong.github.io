@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<body>
+	<head>
+		<title>My html</title>
+	</head>
+		<script>
+			var word=["ass","we","can","kick","your"];
+			alert("Hello!");
+			var p=word[Math.floor(Math.random()*word.length)];
+			var pp=[];
+			for(var i=0;i<p.length;i++)
+			pp[i]='_';
+			var d=p.length;
+			while(d>0)
+			{
+				var k;
+				k=prompt(pp.join(" ")+"\nInput a letter,please.");
+				while(k.length!=1)
+				k=prompt(pp.join(" ")+"\nInput a letter,please.");
+				for(var i=0;i<pp.length;i++)
+				if(p[i]===k)d--,pp[i]=k;
+			//	alert(p.join());
+			}
+			alert("Yes,the word is "+p);
+		</script>
+	</body>
+</html>
