@@ -5,9 +5,13 @@ You can use the [editor on GitHub](https://github.com/shangkelingxiang/peterwuyi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+
 $a$
+
 $$\sum_{i=1}^n$$
+
 ![](https://img.xjh.me/random_img.php?return=302)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
