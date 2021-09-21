@@ -1,1 +1,1 @@
-[好东西](./index.html)
+[好东西](work/index.html)
