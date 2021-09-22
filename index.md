@@ -1,3 +1,5 @@
-[好东西](work/a.html)
-[好东西](work/b.html)
+[html练习](work/a.html)
 
+[html练习](work/b.html)
+
+[随机lty图](work/gg.html)
