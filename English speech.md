@@ -3,7 +3,7 @@
 Yes I do. By making friends I can take a wider road.
 I like to be honest and prefer to think in his way.
 We share pleasure, tears, sorrow, helping each other.
-But i'm always being myself and have a mind of my own, not always bend myself and cater for him.\
+But i'm always being myself and have a mind of my own, not always bend myself and cater for him.
 
 2.Which do you prefer: reading books or watching TV? Why?
 
